@@ -4,4 +4,4 @@
 
 본계정
 
-[Click_Me!](ttps://github.com/MRMUST)
+[Click_Me!](https://github.com/MRMUST)
